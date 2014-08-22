@@ -1,7 +1,7 @@
 {
   "name": "A",
   "version": "0.8",
-  "main": "lib/index.js",
+  "main": "index.js",
   "dependencies": {
   }
 }
